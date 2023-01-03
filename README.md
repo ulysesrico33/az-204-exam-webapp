@@ -1,12 +1,5 @@
 # Overview
 
-This app is hosted is Azure as a test
+This code is only for hosting a web app as part of an excercise from here :(Episode 4)[https://www.youtube.com/watch?v=anef67apIEA&t=2340s]
 
-# Commands used
 
-- git clone https://github.com/ulysesrico33/az-204-exam-webapp.git
-   - To clone the repo to the azure account
-- Demo : git clone https://github.com/Azure-Samples/html-docs-hello-world.git
-- The az weapp command must go in : html-docs-hello-world git folder
-   - az webapp up --location centralus --name webappaz2041 --resource-group rg_az204 --plan ASP-rgaz204-be86 --html
-- Check the website : https://webappaz2041.azurewebsites.net/
